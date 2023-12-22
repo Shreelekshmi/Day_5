@@ -1,0 +1,14 @@
+
+.box{
+    width: 50px;
+    border: 1px solid rgb(67, 1, 1);
+    border-radius: 5px;
+    background-color: aqua;
+    padding: 20px;
+    color: black;
+    height: 620px;
+    width: 700px;
+    overflow: scroll;
+    
+
+}
